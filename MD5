@@ -1,0 +1,8 @@
+782d3bcf18951171a2df3059561fc17d *DESCRIPTION
+940db88122beade52291be39201db07e *NAMESPACE
+b5dd9e6417fd0d6e07d6a72d3ef102b9 *R/generate_adj_matrix.R
+ac94eeb5d3365a67fe42e16a7dc58dce *R/string_2_adjacency_matrix.R
+bc96f0a992ea24d149ddb189e5fa367e *R/string_2_adjacency_matrix_x.R
+84a16ead3a172da1970b3b8024197202 *README.md
+2ad2702eba547aecd4bdec151ebbf55e *man/generate_adj_matrix.Rd
+3d395698c31945a958d1b80622c79fe0 *man/string_2_matrix.Rd
